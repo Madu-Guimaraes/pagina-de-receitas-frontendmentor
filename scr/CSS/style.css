@@ -9,9 +9,9 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #FFFFFF;
-    max-width: 736px; /*usado quando voce quer que ele fique com um tamanho mas sem comprometer a... */
-    width: 100%; /* responsividade*/
-    margin:0 auto; /* deixa o layout mais relativo, o que é otimo para a responcividade*/
+    max-width: 736px; 
+    width: 100%; 
+    margin:0 auto; 
     border-radius: 15px;
 }
 
