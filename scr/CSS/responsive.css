@@ -19,7 +19,7 @@
     }
 
     .introducao p, .nutricao p {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .informacao-do-card{
@@ -41,5 +41,16 @@
     .ingredientes li, .introducoes li{
         font-size: 1.7rem;
     }
-/* ficou faltando do hr até o final*/
+
+    .componentes li{
+        font-size: 1.4rem;
+    }
+    
+}
+
+@media (max-width: 1200px) {
+    .nutricao p {
+        font-size: 1.8rem;
+        font-weight: 400;
+    }
 }

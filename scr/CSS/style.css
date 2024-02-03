@@ -53,12 +53,20 @@ span{
 }
 
 /* Estilos de parágrafos */
-.introducao p, .nutricao p{
+.introducao p{
     color: #4d4947;
     font-size: 1.5rem; 
     font-weight: 500;
     margin-top: 10px;
 }
+
+.nutricao p{
+    color: #4d4947;
+    font-size: 1.6rem; 
+    font-weight: 500;
+    margin-top: 10px;
+}
+
 .informacao-do-card p{
     font-weight: 500;
 }
@@ -126,17 +134,39 @@ hr{
 /* Estilos de informações nutricionais */
 .informacao-nutricional {
     display: flex;
-    justify-content: space-between;
-    margin-right: 15px; 
 }
 
-/* Estilos de componentes e valores */
-.valores p {
+.componentes {
+    flex: 5;
+}
+
+.componentes hr {
+    width: 100%;
+}
+
+.valores {
+    flex: 4.6;
+}
+
+.informacao-nutricional li{
+    margin-bottom: 2rem;
+    list-style: none;
+}
+
+.valores li {
     color: #854632;
 }
 
-.componentes p, .valores p {
+.componentes li{
+    color: #4d4947;
+    margin-left: 3.2rem;
     margin-top: 2rem;
+    font-size: 1.4rem; 
+    font-weight: 500;
+}
+
+.valores li {
+    margin-top: 2rem;
+    font-size: 1.4rem;
     font-weight: 700;
-    margin-left: auto; 
 }
