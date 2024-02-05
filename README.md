@@ -36,7 +36,3 @@ Confeso que o mais difícil foi a parte responsiva, pois precisei pensar em quai
 ## Design Responsivo 📱🖥️
 
 https://github.com/Madu-Guimaraes/pagina-de-receitas-frontendmentor/assets/146151781/cf14f62e-a2a2-45c4-82df-3065942614c9
-
-## Autor
-
-- Linkedin - [Maria Eduarda Guimarães Carvalho](www.linkedin.com/in/maducode)
